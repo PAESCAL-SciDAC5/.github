@@ -1,15 +1,7 @@
-## Hi there 👋
+## Hi 👋
 
-🙋‍♀️ A short introduction
+🙋‍♀️ This is a test free organization on GitHub
 
-This is a test organization for getting myself familiar with organizations under GitHub
-
-👩‍💻 Useful resources 
-
-* Project page at DOE
-* Overleaf
-
-🌈 Contribution guidelines - how can the community get involved?
 
 <!--
 
