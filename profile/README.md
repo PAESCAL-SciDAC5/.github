@@ -1,6 +1,6 @@
 ## Hi 👋
 
-🙋‍♀️ This is a test free organization on GitHub
+🙋‍♀️ This is a free organization on GitHub
 
 
 <!--
