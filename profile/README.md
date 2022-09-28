@@ -1,8 +1,8 @@
-# Welcome to the PAESCAL SciDAC-5 project on GitHub
+# Welcome to the PAESCAL project's organization on GitHub
 
-This GitHub organization hosts notes and code repositories of the projects various task teams.
+Here you can find notes and code repositories of the projects various task teams.
 
-PAESCAL, or Physical, Accurate, and Efficient atmosphere and surface coupling across SCALs, is a collaboration among Earth system modelers, applied mathematicians, computational scientists, and computer scientists supported by the US DOE through the 5th instantiation of the SciDAC (Scientific Discovery through Advanced Computing) program.
+PAESCAL, or _Physical, Accurate, and Efficient atmosphere and surface coupling across SCALs_, is a collaboration among Earth system modelers, applied mathematicians, computational scientists, and computer scientists supported by the US DOE through the 5th instantiation of the SciDAC (Scientific Discovery through Advanced Computing) program.
 
 
 <!--
