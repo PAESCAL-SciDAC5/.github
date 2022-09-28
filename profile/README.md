@@ -1,4 +1,4 @@
-# Welcome to the PAESCAL project's organization on GitHub
+# Welcome to PAESCAL's GitHub organization
 
 Here you can find notes and code repositories of the projects various task teams.
 
