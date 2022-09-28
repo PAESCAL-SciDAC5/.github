@@ -1,6 +1,6 @@
-## Hi 👋
+# Welcome to the PAESCAL SciDAC-5 project on GitHub
 
-🙋‍♀️ This is a free organization on GitHub
+In this GitHub organization, you will find notes and code repositories of our various task teams.
 
 
 <!--
