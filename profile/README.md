@@ -8,6 +8,11 @@ Types of repos in this organization:
 - Task team's collaboration spaces. These repos' names start with "task-notes-".
 - Project management and outreach related repos.
 
+Large binary files (e.g., presentation PPT files and data files) should be stored somewhere else (further info to be included).
+
+Manuscripts and documents being collectively worked upon can be stored on Overleaf.
+
+
 <!--
 
 **Here are some ideas to get you started:**
