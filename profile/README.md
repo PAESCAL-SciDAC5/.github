@@ -6,11 +6,11 @@ Types of repos in this organization:
 
 - Atmospheric model and parameterization codes, including PAESCAL-owned codes as well as forks and mirrors of other's repos (e.g., E3SM, CLUBB).
 - Task team's collaboration spaces for keeping meeting notes and sharing scripts, how-to documents, etc. These repos' names start with "task-notes-".
-- Project management and outreach related repos.
+- Project management and outreach-related repos. E.g., [project-notes](https://github.com/PAESCAL-SciDAC5/project-notes) which keeps notes for the all-hands meetings; [public-website-dev](https://github.com/PAESCAL-SciDAC5/public-website-dev) and [PAESCAL-SciDAC5.github.io](https://github.com/PAESCAL-SciDAC5/PAESCAL-SciDAC5.github.io) which are used for developing and deploying the project's public website.
 
 Large binary files (e.g., presentation PPT files and data files) should be stored somewhere else (further info to be included).
 
-Manuscripts and documents being collectively worked upon can be stored on Overleaf.
+Manuscripts and documents that our team members are collectively editing are more likely stored on Overleaf or Google Doc.
 
 
 <!--
