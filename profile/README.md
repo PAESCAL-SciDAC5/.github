@@ -2,6 +2,17 @@
 
 PAESCAL, or _Physical, Accurate, and Efficient atmosphere and surface coupling across SCALs_, is a collaboration among Earth system modelers, applied mathematicians, computational scientists, and computer scientists supported by the US DOE through the 5th instantiation of the SciDAC (Scientific Discovery through Advanced Computing) program.
 
+We plan to use a combination of collaboration tools like GitHub, Google Drive, Slack, Overleaf to organize our communications and work. More details will be provided. 
+
+Please note that some of the links below are only accessible by the project team members.
+
+## Project and task rosters 
+
+- [On GitHub](https://github.com/PAESCAL-SciDAC5/project-notes/blob/main/project-and-task-rosters.md)
+- [As a Googld Doc](https://docs.google.com/document/d/1GWyVbbYer3HVUS7K2mA0XJDt8xwuMbV9_D2tOBbXlwI/edit)
+
+
+<! ---
 Types of repos in this organization:
 
 - Atmospheric model and parameterization codes, including PAESCAL-owned codes as well as forks and mirrors of other's repos (e.g., E3SM, CLUBB).
@@ -11,7 +22,7 @@ Types of repos in this organization:
 Large binary files (e.g., presentation PPT files and data files) should be stored somewhere else (further info to be included).
 
 Manuscripts and documents that our team members are collectively editing are more likely stored on Overleaf or Google Doc.
-
+---> 
 
 <!--
 
