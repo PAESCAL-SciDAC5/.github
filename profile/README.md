@@ -12,7 +12,8 @@ Please note that some of the links below are only accessible by the project team
 - [As a Googld Doc](https://docs.google.com/document/d/1GWyVbbYer3HVUS7K2mA0XJDt8xwuMbV9_D2tOBbXlwI/edit)
 
 
-<! ---
+<!---
+
 Types of repos in this organization:
 
 - Atmospheric model and parameterization codes, including PAESCAL-owned codes as well as forks and mirrors of other's repos (e.g., E3SM, CLUBB).
@@ -22,7 +23,8 @@ Types of repos in this organization:
 Large binary files (e.g., presentation PPT files and data files) should be stored somewhere else (further info to be included).
 
 Manuscripts and documents that our team members are collectively editing are more likely stored on Overleaf or Google Doc.
----> 
+
+--> 
 
 <!--
 
