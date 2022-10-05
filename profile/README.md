@@ -9,7 +9,7 @@ Please note that some of the links below are only accessible by the project team
 ## Project and task rosters 
 
 - [On GitHub](https://github.com/PAESCAL-SciDAC5/project-notes/blob/main/project-and-task-rosters.md)
-- [As a Googld Doc](https://docs.google.com/document/d/1GWyVbbYer3HVUS7K2mA0XJDt8xwuMbV9_D2tOBbXlwI/edit)
+- [As a Google Doc](https://docs.google.com/document/d/1GWyVbbYer3HVUS7K2mA0XJDt8xwuMbV9_D2tOBbXlwI/edit)
 
 
 <!---
