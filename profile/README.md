@@ -15,6 +15,11 @@ We are using a combination of GitHub, Google Drive, Slack, Overleaf to organize 
 - [On GitHub](https://github.com/PAESCAL-SciDAC5/project-notes/blob/main/project-and-task-rosters.md)
 - [As a Google Doc](https://docs.google.com/document/d/1GWyVbbYer3HVUS7K2mA0XJDt8xwuMbV9_D2tOBbXlwI/edit)
 
+### Slack
+
+- Workspace name: PAESCAL-SciDAC5
+- URL: [https://processcoupli-0pf5346.slack.com](https://processcoupli-0pf5346.slack.com)
+
 
 <!---
 
