@@ -12,12 +12,14 @@ We are using a combination of GitHub, Google Drive, Slack, Overleaf to organize 
 
 ### Project and task roasters
 
-[On GitHub](https://github.com/PAESCAL-SciDAC5/project-notes/blob/main/project-and-task-rosters.md) 
+- [On GitHub](https://github.com/PAESCAL-SciDAC5/project-notes/blob/main/project-and-task-rosters.md) 
 and as a [Google Doc](https://docs.google.com/document/d/1GWyVbbYer3HVUS7K2mA0XJDt8xwuMbV9_D2tOBbXlwI/edit)
 
 ### Google Drive 
 
 - [Root folder](https://drive.google.com/drive/folders/1g4sARFUXLBBKqlsvTg8_gFkA_oyavHUc)
+- [Cross-task coordination](https://docs.google.com/document/d/1TRKWYu0zkAS_tEv9AN77O9w3iYwI-wquer_etBSWr0U/edit), e.g., meeting polls
+- [Tutorial requests and offers](https://docs.google.com/document/d/1M7DxNKx1D5AJv6BHngLke8TlX8xh2pc4w947Gw8RJm4/edit)
 
 ### Slack
 
