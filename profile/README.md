@@ -4,9 +4,6 @@ PAESCAL, or _Physical, Accurate, and Efficient atmosphere and surface coupling a
 
 We are using a combination of GitHub, Google Drive, Slack, Overleaf to organize our communications and work. See more details below. 
 
-# Public info
-
-----
 
 # For team members
 
@@ -25,6 +22,15 @@ and as a [Google Doc](https://docs.google.com/document/d/1GWyVbbYer3HVUS7K2mA0XJ
 
 - Workspace name: PAESCAL-SciDAC5
 - URL: [https://processcoupli-0pf5346.slack.com](https://processcoupli-0pf5346.slack.com)
+
+### Task kickoff meetings and POCs
+
+- CLUBB-FV (Vince): Wednesday, Oct 12, 8am PT 
+-	PDE-ML coupling (Panos): Wednesday, Oct 12, 12pm PT
+-	Atmosphere coupling (Hui): Thursday, Oct 13, 11am PT
+-	Cloud microphysics (Sean): Tuesday, Oct 18, 12pm PT
+-	Surface coupling (Chris V.): Friday, Oct 21, 10am PT
+
 
 
 <!---
