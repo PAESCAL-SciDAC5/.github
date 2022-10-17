@@ -34,9 +34,9 @@ and as a [Google Doc](https://docs.google.com/document/d/1GWyVbbYer3HVUS7K2mA0XJ
 
 ### Task kickoff meetings and POCs
 
-- CLUBB-FV (Vince): Wednesday, Oct 12, 8am PT 
--	PDE-ML coupling (Panos): Wednesday, Oct 12, 12pm PT
--	Atmosphere coupling (Hui): Thursday, Oct 13, 11am PT
+- [x] CLUBB-FV (Vince): Wednesday, Oct 12, 8am PT 
+-	[x] PDE-ML coupling (Panos): Wednesday, Oct 12, 12pm PT
+-	[x] Atmosphere coupling (Hui): Thursday, Oct 13, 11am PT
 -	Cloud microphysics (Sean): Tuesday, Oct 18, 12pm PT
 -	Surface coupling (Chris V.): Friday, Oct 21, 10am PT
 
