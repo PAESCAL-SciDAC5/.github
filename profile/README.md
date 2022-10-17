@@ -22,7 +22,7 @@ and as a [Google Doc](https://docs.google.com/document/d/1GWyVbbYer3HVUS7K2mA0XJ
 - [Atm coupling](https://github.com/PAESCAL-SciDAC5/task-notes-atm-coupling/)
 - [Surface coupling](https://github.com/PAESCAL-SciDAC5/task-notes-sfc-coupling)
 - [PDE-ML coupling](https://github.com/PAESCAL-SciDAC5/task-notes-PDE-ML-coupling)
-- CLUBB-FV
+- [CLUBB-FV](https://github.com/PAESCAL-SciDAC5/task-notes-CLUBB-FV)
 - Cloud microphysics
 - [Visual analytics tools](https://github.com/PAESCAL-SciDAC5/task-notes-visualization)
 - Integration to E3SM
