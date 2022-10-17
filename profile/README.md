@@ -19,8 +19,8 @@ and as a [Google Doc](https://docs.google.com/document/d/1GWyVbbYer3HVUS7K2mA0XJ
 
 ### Task teams' landing pages with quick links
 
-- [Atm coupling](https://github.com/PAESCAL-SciDAC5/task-notes-atm-coupling/blob/main/README.md)
-- sfc coupling
+- [Atm coupling](https://github.com/PAESCAL-SciDAC5/task-notes-atm-coupling/)
+- [Surface coupling](https://github.com/PAESCAL-SciDAC5/task-notes-sfc-coupling)
 - PDE-ML coupling
 - CLUBB-FV
 - Cloud microphysics
