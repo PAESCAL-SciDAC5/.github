@@ -23,7 +23,7 @@ and as a [Google Doc](https://docs.google.com/document/d/1GWyVbbYer3HVUS7K2mA0XJ
 - [Surface coupling](https://github.com/PAESCAL-SciDAC5/task-notes-sfc-coupling)
 - [PDE-ML coupling](https://github.com/PAESCAL-SciDAC5/task-notes-PDE-ML-coupling)
 - [CLUBB-FV](https://github.com/PAESCAL-SciDAC5/task-notes-CLUBB-FV)
-- Cloud microphysics
+- [Cloud microphysics](https://github.com/PAESCAL-SciDAC5/task-notes-cloud-microphysics)
 - [Visual analytics tools](https://github.com/PAESCAL-SciDAC5/task-notes-visualization)
 - Integration to E3SM
 
@@ -37,7 +37,7 @@ and as a [Google Doc](https://docs.google.com/document/d/1GWyVbbYer3HVUS7K2mA0XJ
 - [x] CLUBB-FV (Vince): Wednesday, Oct 12, 8am PT 
 -	[x] PDE-ML coupling (Panos): Wednesday, Oct 12, 12pm PT
 -	[x] Atmosphere coupling (Hui): Thursday, Oct 13, 11am PT
--	Cloud microphysics (Sean): Tuesday, Oct 18, 12pm PT
+-	[x] Cloud microphysics (Sean): Tuesday, Oct 18, 12pm PT
 -	Surface coupling (Chris V.): Friday, Oct 21, 10am PT
 
 
