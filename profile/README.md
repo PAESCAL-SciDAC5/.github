@@ -7,7 +7,7 @@ We are using a combination of GitHub, Google Drive, Slack, Overleaf to organize 
 
 # For team members
 
-### Project and task roasters
+### Project and task rosters
 
 - [On GitHub](https://github.com/PAESCAL-SciDAC5/project-notes/blob/main/project-and-task-rosters.md) 
 and as a [Google Doc](https://docs.google.com/document/d/1GWyVbbYer3HVUS7K2mA0XJDt8xwuMbV9_D2tOBbXlwI/edit)
