@@ -4,20 +4,24 @@ PAESCAL, or _Physical, Accurate, and Efficient atmosphere and surface coupling a
 
 We are using a combination of GitHub, Google Drive, Slack, Overleaf to organize our communications and work. See more details below. 
 
-
-# For team members
-
-### Google Drive ([root directory](https://drive.google.com/drive/folders/1g4sARFUXLBBKqlsvTg8_gFkA_oyavHUc?usp=sharing))
+## Google Drive ([root directory](https://drive.google.com/drive/folders/1g4sARFUXLBBKqlsvTg8_gFkA_oyavHUc?usp=sharing))
 
 For access, please post the email address associated with your Google account to the `general` channel on Slack.
-Some useful quick links are
+
+### Quick links
 
 - [Team Roster](https://docs.google.com/document/d/1GWyVbbYer3HVUS7K2mA0XJDt8xwuMbV9_D2tOBbXlwI/edit)
 - [Cross-task coordination](https://docs.google.com/document/d/1TRKWYu0zkAS_tEv9AN77O9w3iYwI-wquer_etBSWr0U/edit), e.g., meeting polls
 - [Tutorial requests and offers](https://docs.google.com/document/d/1M7DxNKx1D5AJv6BHngLke8TlX8xh2pc4w947Gw8RJm4/edit)
 - [Presentation Templates](https://drive.google.com/drive/folders/1vMegNrOWen_K2gAvsGftEzGYyez1kHFN?usp=share_link)
 
-### Task teams' landing pages with quick links
+### Tutorials
+
+- [Summary](https://docs.google.com/document/d/1NtJM5o7-W1OF0MnDwJ-rWH1CjTzA4mdiiWdlchWGFtU/edit)
+- [Folder](https://drive.google.com/drive/folders/1E_BhKjCqRnywo8A0O8cCLfoNHMboIwfD)
+
+
+## Task teams' landing pages with quick links
 
 - [Atm coupling](https://github.com/PAESCAL-SciDAC5/task-notes-atm-coupling/)
 - [Surface coupling](https://github.com/PAESCAL-SciDAC5/task-notes-sfc-coupling)
@@ -27,12 +31,12 @@ Some useful quick links are
 - [Visual analytics tools](https://github.com/PAESCAL-SciDAC5/task-notes-visualization)
 - Integration to E3SM
 
-### Slack
+## Slack
 
 - Workspace name: PAESCAL-SciDAC5
 - URL: [https://processcoupli-0pf5346.slack.com](https://processcoupli-0pf5346.slack.com)
 
-### Task kickoff meetings and POCs
+## Task kickoff meetings and POCs
 
 - [x] CLUBB-FV (Vince): Wednesday, Oct 12, 8am PT 
 -	[x] PDE-ML coupling (Panos): Wednesday, Oct 12, 12pm PT
