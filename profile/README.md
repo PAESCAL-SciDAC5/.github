@@ -36,13 +36,13 @@ For access, please post the email address associated with your Google account to
 - Workspace name: PAESCAL-SciDAC5
 - URL: [https://processcoupli-0pf5346.slack.com](https://processcoupli-0pf5346.slack.com)
 
-## Task kickoff meetings and POCs
+## Tutorials in January-March 2023
 
-- [x] CLUBB-FV (Vince): Wednesday, Oct 12, 8am PT 
--	[x] PDE-ML coupling (Panos): Wednesday, Oct 12, 12pm PT
--	[x] Atmosphere coupling (Hui): Thursday, Oct 13, 11am PT
--	[x] Cloud microphysics (Sean): Tuesday, Oct 18, 12pm PT
--	Surface coupling (Chris V.): Friday, Oct 21, 10am PT
+- Jan 5th, 2023, Hui Wan: E3SM's equation, grid, and data structures, part 1
+- Jan 10th, 2023, Zack Galbreath: Introduction to CMake
+- Jan 26th, 2023, Hui Wan: E3SM's equation, grid, and data structures, part 2
+- Feb 13th, 2023, Ann Almgren: Introduction to finite volume methods, part 1
+- Mar 13th, 2023, Ann Almgren: Introduction to finite volume methods, part 2
 
 
 
