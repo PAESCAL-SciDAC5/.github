@@ -29,7 +29,7 @@ For access, please post the email address associated with your Google account to
 - [CLUBB-FV](https://github.com/PAESCAL-SciDAC5/task-notes-CLUBB-FV)
 - [Cloud microphysics](https://github.com/PAESCAL-SciDAC5/task-notes-cloud-microphysics)
 - [Visual analytics tools](https://github.com/PAESCAL-SciDAC5/task-notes-visualization)
-- Integration to E3SM
+- [Integration to E3SM](https://github.com/PAESCAL-SciDAC5/task-notes-integration-to-E3SM)
 
 ## Slack
 
