@@ -15,6 +15,7 @@ For access, please post the email address associated with your Google account to
 - [Tutorial requests and offers](https://docs.google.com/document/d/1M7DxNKx1D5AJv6BHngLke8TlX8xh2pc4w947Gw8RJm4/edit)
 - [Presentation Templates](https://drive.google.com/drive/folders/1vMegNrOWen_K2gAvsGftEzGYyez1kHFN?usp=share_link)
 - DOE highlight templates: for [BER](https://drive.google.com/drive/folders/10orxNFVioFwV49JhwRCklsXPR6LckRMP), for [ASCR](https://drive.google.com/drive/folders/1TdkYECuf-fuvoA46-jPLtFfReUc7s__U)
+- [Relevant conferences](https://docs.google.com/document/d/1nCVHZiw1okaQEEiDMcy4XHDsipg8__UFjS3eIQ_O1Is/edit#)
 
 ### Tutorials
 
