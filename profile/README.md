@@ -14,6 +14,7 @@ For access, please post the email address associated with your Google account to
 - [Cross-task coordination](https://docs.google.com/document/d/1TRKWYu0zkAS_tEv9AN77O9w3iYwI-wquer_etBSWr0U/edit), e.g., meeting polls
 - [Tutorial requests and offers](https://docs.google.com/document/d/1M7DxNKx1D5AJv6BHngLke8TlX8xh2pc4w947Gw8RJm4/edit)
 - [Presentation Templates](https://drive.google.com/drive/folders/1vMegNrOWen_K2gAvsGftEzGYyez1kHFN?usp=share_link)
+- DOE highlight templates: for [BER](https://drive.google.com/drive/folders/10orxNFVioFwV49JhwRCklsXPR6LckRMP), for [ASCR](https://drive.google.com/drive/folders/1TdkYECuf-fuvoA46-jPLtFfReUc7s__U)
 
 ### Tutorials
 
